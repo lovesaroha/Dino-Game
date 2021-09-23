@@ -3,4 +3,4 @@
 
 ![game](https://raw.githubusercontent.com/lovesaroha/gimages/main/8.png)
 
-[lovesaroha/p/Dino-Game](https://lovesaroha.com/p/Dino-Game)
+[lovesaroha/Dino-Game](https://games.lovesaroha.com/Dino-Game)
